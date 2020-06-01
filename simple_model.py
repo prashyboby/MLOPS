@@ -17,7 +17,7 @@ df = df.fillna(0)
 dfo = dfo.fillna(0)
 
 print ("STEP 2: SELECTING CHARACTERISTICS TO ENTER INTO THE MODEL...")
-in_model = ['ib_var_1','icn_var_22','ico_var_25','if_var_65']
+in_model = ['ib_var_1','icn_var_22','ico_var_25','if_var_65','if_var_77']
 
 output_var = 'ob_target'
 
